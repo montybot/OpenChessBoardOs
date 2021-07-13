@@ -13,9 +13,11 @@ The microcontroller emulate a usb keyboard that send coordinates of the square p
 ex : e2 e4 e7 e5 ...
 
 # What you need to make your usb chess board
+__You can find all this stuff on the famous chinese marketplace for less than 20$__
 ## A microcontroller
 - 1 Teensy®++ 2.0 Development Board https://www.pjrc.com/store/teensypp.html
 ## Some other parts
+
 _Be Careful Affliate links_ (to make me some cents to buy more microcontrollers 👍 )
 
 - 64 Push Buttons 5mm like this one : https://amzn.to/2UIba2i 
@@ -23,11 +25,12 @@ _Be Careful Affliate links_ (to make me some cents to buy more microcontrollers 
 - 1 USB Cable to connect your board to your computer https://amzn.to/3wuFM4M
 - 1 USB adapter to connect your board to your phone https://amzn.to/3ebo93A
 - And a soldering iron tool https://amzn.to/3wAcvWm
+- Wood to make the board
+- Your hands to make it
 
 ## Optional 
 - I2C LCD 1602 to show your moves on the board https://amzn.to/3xxQVTE 
 
-__You can find all this stuff on the famous chinese marketplace for less than 20$__
 
 # Demo on youtube
 Comming soon ...

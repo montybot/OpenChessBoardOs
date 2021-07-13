@@ -24,6 +24,9 @@ _Be Careful Affliate links_ (to make me some cents to buy more microcontrollers 
 - 1 USB adapter to connect your board to your phone https://amzn.to/3ebo93A
 - And a soldering iron tool https://amzn.to/3wAcvWm
 
+## Optional 
+- I2C LCD 1602 to show your moves on the board https://amzn.to/3xxQVTE 
+
 __You can find all this stuff on the famous chinese marketplace for less than 20$__
 
 # Demo on youtube

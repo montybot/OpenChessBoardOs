@@ -31,6 +31,16 @@ _Be Careful Affliate links_ (to make me some cents to buy more microcontrollers 
 ## Optional 
 - I2C LCD 1602 to show your moves on the board https://amzn.to/3xxQVTE 
 
+# Some pictures
+## inside
+![image](https://user-images.githubusercontent.com/44131102/126873513-64acd2c0-2f3e-445e-a302-64ef354715f8.png)
+## Finished
+![image](https://user-images.githubusercontent.com/44131102/126873524-f17a4986-8ae6-4418-b8cc-8d529730b27a.png)
+
+
+_You can find the pieces of wood on the chinese marketplace_ 
 
 # Demo on youtube
 Comming soon ...
+# Futur work
+Make a serial version that communicate with software to display moves and information on the LCD

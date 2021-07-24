@@ -36,9 +36,9 @@ _Be Careful Affliate links_ (to make me some cents to buy more microcontrollers 
 ![image](https://user-images.githubusercontent.com/44131102/126873513-64acd2c0-2f3e-445e-a302-64ef354715f8.png)
 ## Finished
 ![image](https://user-images.githubusercontent.com/44131102/126873524-f17a4986-8ae6-4418-b8cc-8d529730b27a.png)
-
-
 _You can find the pieces of wood on the chinese marketplace_ 
+## A bigger version with full sized pieces and vinyl chess board
+![image](https://user-images.githubusercontent.com/44131102/126873962-e9bf56df-4550-46f4-b8d7-0843ada4bf8b.png)
 
 # Demo on youtube
 Comming soon ...

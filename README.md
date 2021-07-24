@@ -5,7 +5,7 @@ and http://sishchess.blogspot.com/2012/03/
 
 Made to be as simple as possible and as cheaper as possible for those who love chess but have no money to buy a costly usb chess board.
 
-OpenChessBoardOs work with all the Chess software (x86 and Android) with keyboard move input option.
+OpenChessBoardOs works with all the Chess software (x86 and Android) with keyboard move input option.
 
 # How it works
 The microcontroller emulate a usb keyboard that send coordinates of the square pushed on the board 

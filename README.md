@@ -41,6 +41,7 @@ _You can find the pieces of wood on the chinese marketplace_
 ![image](https://user-images.githubusercontent.com/44131102/126873962-e9bf56df-4550-46f4-b8d7-0843ada4bf8b.png)
 
 # Demo on youtube
-Comming soon ...
+https://youtu.be/BoL9LJPQLI0 
+
 # Futur work
 Make a serial version that communicate with software to display moves and information on the LCD

@@ -8,9 +8,10 @@ Made to be as simple as possible and as cheaper as possible for those who love c
 OpenChessBoardOs works with all the Chess software (x86 and Android) with keyboard move input option.
 
 # How it works
-The microcontroller emulate a usb keyboard that send coordinates of the square pushed on the board 
+The microcontroller emulates a usb keyboard that send coordinates of the square pushed on the board 
 
 ex : e2 e4 e7 e5 ...
+With no carriage return
 
 # What you need to make your usb chess board
 __You can find all this stuff on the famous chinese marketplace for less than 20$__
